@@ -8,7 +8,7 @@ const config = {
   repository: 'https://github.com/Ricou2956/windyvr-lsv-team',
   desktopUI: 'rhpane',
   desktopWidth: 520,
-  mobileUI: 'fullscreen',
+  mobileUI: 'small',
   routerPath: '/windyvr-lsv-team',
   private: false,
 };
