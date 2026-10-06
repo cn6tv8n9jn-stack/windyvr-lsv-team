@@ -1,5 +1,5 @@
 const config = {
-  name: 'windy-plugin-windyvr-lsv-team',
+  name: 'windy-plugin-windyvr-lsv-team-moonju',
   version: '1.2.2',
   icon: '⛵',
   title: 'WindyVR LSV Team',
