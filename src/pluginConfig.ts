@@ -5,7 +5,7 @@ const config = {
   title: 'WindyVR LSV Team',
   description: 'Compare six routes VR avec synthèse visuelle, ETA et zones de divergence ECMWF/GFS/ICON.',
   author: 'WindyVR LSV Team',
-  repository: 'https://github.com/Ricou2956/windyvr-lsv-team',
+  repository: 'https://github.com/cn6tv8n9jn-stack/windyvr-lsv-team',
   desktopUI: 'rhpane',
   desktopWidth: 520,
   mobileUI: 'small',
