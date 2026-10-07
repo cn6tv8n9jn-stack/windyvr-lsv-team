@@ -10,7 +10,7 @@ const config = {
   desktopWidth: 520,
   mobileUI: 'small',
   routerPath: '/windyvr-lsv-team',
-  private: false,
+  private: true,
 };
 
 export default config;
