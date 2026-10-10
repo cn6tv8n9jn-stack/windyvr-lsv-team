@@ -938,7 +938,7 @@
 
 <style>
   .eta-warning { display: flex; flex-direction: column; gap: 4px; }
-  .plugin__content { padding-bottom: 24px; }
+  .plugin__content { padding-bottom: 36px; }
   .topline { display:flex; justify-content:space-between; align-items:center; gap:10px; margin:14px 0; }
   .topline small, .route-name small { display:block; opacity:.7; font-size:11px; }
   .import { position:relative; overflow:hidden; white-space:nowrap; }
