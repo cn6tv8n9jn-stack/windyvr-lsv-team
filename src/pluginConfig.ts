@@ -1,6 +1,6 @@
 const config = {
   name: 'windy-plugin-windyvr-lsv-team-moonju',
-  version: '1.2.3',
+  version: '1.2.4',
   icon: '⛵',
   title: 'WindyVR LSV Team',
   description: 'Compare six routes VR avec synthèse visuelle, ETA et zones de divergence ECMWF/GFS/ICON.',
