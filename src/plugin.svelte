@@ -811,9 +811,7 @@
     if (files.length && analysisStatus === 'running') analysisGeneration += 1;
     for (const file of files) {
       try {
-        const parsed = await parseRouteFile(file, {
-sermar: { utcOffsetMinutes: 120 }
-});
+        const parsed = await parseRouteFile(file, {sermar: { utcOffsetMinutes: 120 }});
         if (!routes.length) mapLongitudeReference = null;
         const styleIndex = nextRouteStyleIndex(routes);
         const routeStyle = routeStyleForIndex(styleIndex);
